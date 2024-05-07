@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Цвет фона (черный) -->
+    <solid android:color="#000000" />
+
+    <!-- Цвет обводки (белый) и толщина обводки (2dp) -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" />
+
+</shape>
